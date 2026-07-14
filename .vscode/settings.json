@@ -11,7 +11,7 @@
     "editor.inlineSuggest.edits.showCollapsed": false,
 
     "editor.parameterHints.enabled": true,
-    "editor.hover.enabled": true,
+    "editor.hover.enabled": "on",
 
     "editor.snippetSuggestions": "none",
     "editor.acceptSuggestionOnCommitCharacter": false,
